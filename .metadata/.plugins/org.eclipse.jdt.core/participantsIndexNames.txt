@@ -1,0 +1,21 @@
+INDEX VERSION 1.131
+C:\paasta\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\576277772.index
+\SpringForOracle\src
+C:\paasta\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2624647426.index
+\SpringForOracle\src
+C:\paasta\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3109710089.index
+\SpringForOracle\src
+C:\paasta\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3759366977.index
+\SpringForOracle\src
+C:\paasta\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\10555681.index
+\SpringForOracle\src
+C:\paasta\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2153843104.index
+\SpringForOracle\src
+C:\paasta\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1396883927.index
+\SpringForOracle\src
+C:\paasta\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3980725102.index
+\SpringForOracle\src
+C:\paasta\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\626049499.index
+\SpringForOracle\src
+C:\paasta\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3903796674.index
+\SpringForOracle\src
